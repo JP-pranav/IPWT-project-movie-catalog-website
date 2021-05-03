@@ -1,0 +1,10 @@
+{
+	"server" : {
+		"host" : "localhost",
+		"port" : 5000
+	},
+	"database" : {
+		"uri": "mongodb://localhost/movie-catalog"
+	},
+	"proxy": "http://localhost:5000/"
+}
